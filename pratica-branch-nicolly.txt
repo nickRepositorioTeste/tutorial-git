@@ -1,2 +1,3 @@
 Pratica de branches e Pull Requests - Nicolly
 Teste temporario com stash
+Pratica de commit pela interface do VS Code.
